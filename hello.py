@@ -1,2 +1,2 @@
 
-print("Hello from GitHub Actions!-Pull request")
+print("Hello from GitHub Actions!")
