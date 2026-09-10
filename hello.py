@@ -1,2 +1,2 @@
 def get_message():
-  print("Hello from GitHub Actions!-Pull request")
+  return "Hello from GitHub Actions!"
