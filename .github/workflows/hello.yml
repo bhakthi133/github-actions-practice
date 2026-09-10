@@ -20,6 +20,9 @@ jobs:
           
       - name: Install pytest
         run: pip install pytest
+
+      - name: Check hello.py
+        run: cat hello.py
         
       - name: Run test
         run: pytest
